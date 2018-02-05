@@ -8,6 +8,7 @@
 :rocket: [`RenJS`](https://gitlab.com/lunafromthemoon/RenJSTutorial/tree/master) - Based phaserjs </br>
 &nbsp;&nbsp;&nbsp;&nbsp; :link: [A visual novel engine based on Phaser](http://www.html5gamedevs.com/topic/32953-visual-novel-engine-renjs/)
             
-            
+ :link: [`liriliri`](https://github.com/liriliri/liriliri) - HTML5 visual novel engine </br>
+
 <!-- :wrench: -->
  
