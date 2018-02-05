@@ -9,6 +9,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; :link: [A visual novel engine based on Phaser](http://www.html5gamedevs.com/topic/32953-visual-novel-engine-renjs/)
             
  :link: [`liriliri`](https://github.com/liriliri/liriliri) - HTML5 visual novel engine </br>
- :link: [`NovelScript`](https://github.com/yinyanfr/NovelScript) - A Visual Novel Front-End Framework for JavaScript
+ :link: [`NovelScript`](https://github.com/yinyanfr/NovelScript) - A Visual Novel Front-End Framework for JavaScript</br>
+ :link: [`WebStory Engine`](https://github.com/iiyo/WebStory-Engine) - A visual novel engine for the web </br>
+ :link: [`Monogatari`](https://github.com/Monogatari/Monogatari) - Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web. </br>
+ :link: [`Visual Novel Template`](https://github.com/ker0chan/VisualNovelTemplate) - A simple template for web-based visual novels. Written in javascript, easily customizable.
 <!-- :wrench: -->
  
