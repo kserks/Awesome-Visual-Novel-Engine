@@ -9,6 +9,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; :link: [A visual novel engine based on Phaser](http://www.html5gamedevs.com/topic/32953-visual-novel-engine-renjs/)
             
  :link: [`liriliri`](https://github.com/liriliri/liriliri) - HTML5 visual novel engine </br>
-
+ :link: [`NovelScript`](https://github.com/yinyanfr/NovelScript) - A Visual Novel Front-End Framework for JavaScript
 <!-- :wrench: -->
  
