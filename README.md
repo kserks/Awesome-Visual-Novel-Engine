@@ -13,5 +13,6 @@
  :link: [`WebStory Engine`](https://github.com/iiyo/WebStory-Engine) - A visual novel engine for the web </br>
  :link: [`Monogatari`](https://github.com/Monogatari/Monogatari) - Monogatari is a simple web visual novel engine, created to bring Visual Novels to the web. </br>
  :link: [`Visual Novel Template`](https://github.com/ker0chan/VisualNovelTemplate) - A simple template for web-based visual novels. Written in javascript, easily customizable.
+ :link: [`vn-Canvas`](http://vn-canvas.sourceforge.net/) - A javascript visual novel engine for HTML5 Canvas
 <!-- :wrench: -->
  
