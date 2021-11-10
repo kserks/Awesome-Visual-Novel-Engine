@@ -1,10 +1,10 @@
 ## Awesome Visual Novel Engine [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ### Browser
-:zzz: [`js-VINE`](https://github.com/jdeisenberg/js-vine)  - dinozavr </br>
+:zzz: [`js-VINE`](https://github.com/jdeisenberg/js-vine)  - discoverer </br>
 &nbsp;&nbsp;&nbsp;&nbsp; :link: [Examples](http://langintro.com/js-vine/)</br>
 :zzz: [`jsvn`](https://github.com/vnjson/jsvn.js) - Visual novel on tumblr  </br>
-:sparkles: [`mcvnjson`](https://github.com/vnjson/mcvnjson) - yaml scripting </br>
+:unicorn: [`mcvnjson`](https://github.com/vnjson/mcvnjson) - yaml scripting </br>
 :rocket: [`RenJS`](https://gitlab.com/lunafromthemoon/RenJSTutorial/tree/master) - Based phaserjs </br>
 &nbsp;&nbsp;&nbsp;&nbsp; :link: [A visual novel engine based on Phaser](http://www.html5gamedevs.com/topic/32953-visual-novel-engine-renjs/)
             
